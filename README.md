@@ -1,0 +1,1 @@
+After unzipping the file and opening the folder in VS Code. Run the frontend code which is html.index, MongoDB should be installed for database managements. If more queries contact Harshit Bisht or Luv Sachwani. THANK YOU!
